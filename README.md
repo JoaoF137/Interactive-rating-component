@@ -33,8 +33,7 @@ Both Screenshots of the Desktop and Mobile Versions added to the project main fo
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://interactive-rating-component-weld-omega.vercel.app/ 
 
 ## My process
 
